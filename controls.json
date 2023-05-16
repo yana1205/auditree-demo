@@ -1,6 +1,6 @@
 {
-  "arboretum.auditree.checks.test_python_packages.PythonPackageCheck": ["demo.arboretum.accred"],
-  "demo_examples.checks.test_github.GitHubAPIVersionsCheck": ["demo.custom.accred"],
-  "demo_examples.checks.test_github.GitHubOrgs": ["demo.custom.accred"],
-  "demo_examples.checks.test_image_content.ImageCheck": ["demo.custom.accred"]
+  "arboretum.auditree.checks.test_python_packages.PythonPackageCheck": ["my.accred1"],
+  "demo_examples.checks.test_github.GitHubAPIVersionsCheck": ["my.accred2"],
+  "demo_examples.checks.test_github.GitHubOrgs": ["my.accred2"],
+  "demo_examples.checks.test_image_content.ImageCheck": ["my.accred2"]
 }
