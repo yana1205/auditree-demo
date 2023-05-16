@@ -1,0 +1,22 @@
+{
+  "image_check.md": {
+    "checks": [
+      "demo_examples.checks.test_image_content.ImageCheck.test_image_content_with_ctx_mgr",
+      "demo_examples.checks.test_image_content.ImageCheck.test_image_content_with_decorator"
+    ],
+    "description": "Image Check Analysis report.",
+    "evidence": [
+      {
+        "binary_content": true,
+        "commit_sha": "304c6e9f0e030cb0e237b0bcb4965291b86fdf0a",
+        "description": "The Auditree logo image",
+        "last_update": "2023-05-16T06:43:53.538194",
+        "locker_url": "https://github.com/yana1205/auditree-demo",
+        "path": "raw/images/auditree_logo.png",
+        "ttl": 86400
+      }
+    ],
+    "last_update": "2023-05-16T06:47:51.882206",
+    "ttl": 86400
+  }
+}
