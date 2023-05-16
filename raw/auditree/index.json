@@ -1,0 +1,22 @@
+{
+  "auditree_arboretum_releases.xml": {
+    "description": "Auditree Arboretum PyPI releases",
+    "last_update": "2023-05-16T09:46:27.143510",
+    "ttl": 86400
+  },
+  "auditree_framework_releases.xml": {
+    "description": "Auditree Framework PyPI releases",
+    "last_update": "2023-05-16T09:46:27.143510",
+    "ttl": 86400
+  },
+  "auditree_harvest_releases.xml": {
+    "description": "",
+    "last_update": "2023-05-16T09:46:27.143510",
+    "ttl": 86400
+  },
+  "python_packages.json": {
+    "description": "Python Package List",
+    "last_update": "2023-05-16T09:46:27.143510",
+    "ttl": 86400
+  }
+}
